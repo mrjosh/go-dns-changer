@@ -6,7 +6,7 @@ This is a DNS changer library written in Golang.
 ## Notes
 - IMPORTANT: Requires root/sudo/admin privileges to adjust any settings.
 - Tested on:
-	- macOS (High Sierra)
+	- macOS (Sierra, High Sierra, mojave, catalina)
 
 ## Installing
 ```bash
@@ -46,7 +46,7 @@ func main() {
 ```
 
 ## Contributing
-Thank you for considering, contributing to the this project!
+Thank you for considering contributing to the this project!
 
 ## License
 The go-dns-changer is open-source software licensed under the MIT license.
